@@ -53,3 +53,6 @@ war/WEB-INF/classes/
 /.settings
 /.gwt
 
+
+#ist das notwendig?-->wurde beim Stagen des Test-packages hinzugefügt#
+/test-classes/ 
